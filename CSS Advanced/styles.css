@@ -1,0 +1,10 @@
+.header-logo {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-links ul {
+    display: flex;
+    list-style: none;
+    gap: 50px;
+}
