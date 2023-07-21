@@ -1,3 +1,4 @@
+
 .header-logo {
     display: flex;
     justify-content: space-between;
@@ -8,3 +9,81 @@
     list-style: none;
     gap: 50px;
 }
+.first-section {
+    display: flex;
+    height: 1093px;
+    width: 1440px;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.awardees {
+    display: flex;
+    justify-content: space-around;
+}
+#gs {
+    font-weight: bold;
+    font-size: 100px;
+    color: rgb(17, 1, 1);
+}
+.sec-section {
+    display: flex;
+    justify-content: center;
+}
+.section-3 {
+    display: flex;
+    row-gap: 10px;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+
+}
+.videos {
+    display: flex;
+    gap: 10px;
+}
+.membership {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    row-gap: 10px;
+
+}
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.membership-images {
+    display: flex;
+    gap: 10px;
+}
+.FAQ {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    row-gap: 10px;
+}
+.faq-heading {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+.footer-table {
+    display: flex;
+    width: 1440px;
+    justify-content: center;
+}
+
+
